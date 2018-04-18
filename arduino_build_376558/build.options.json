@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "C:\\Users\\Asus\\Downloads\\CSA\\arduino-1.8.5-windows\\arduino-1.8.5\\libraries",
+  "customBuildProperties": "build.warn_data_percentage=75,runtime.tools.arduinoOTA.path=C:\\Users\\Asus\\Downloads\\CSA\\arduino-1.8.5-windows\\arduino-1.8.5\\hardware\\tools\\avr,runtime.tools.avr-gcc.path=C:\\Users\\Asus\\Downloads\\CSA\\arduino-1.8.5-windows\\arduino-1.8.5\\hardware\\tools\\avr,runtime.tools.avrdude.path=C:\\Users\\Asus\\Downloads\\CSA\\arduino-1.8.5-windows\\arduino-1.8.5\\hardware\\tools\\avr",
+  "fqbn": "arduino:avr:uno",
+  "hardwareFolders": "C:\\Users\\Asus\\Downloads\\CSA\\arduino-1.8.5-windows\\arduino-1.8.5\\hardware",
+  "otherLibrariesFolders": "C:\\Users\\Asus\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10805",
+  "sketchLocation": "C:\\Users\\Asus\\Documents\\Project\\led_control\\led_control.ino",
+  "toolsFolders": "C:\\Users\\Asus\\Downloads\\CSA\\arduino-1.8.5-windows\\arduino-1.8.5\\tools-builder,C:\\Users\\Asus\\Downloads\\CSA\\arduino-1.8.5-windows\\arduino-1.8.5\\hardware\\tools\\avr"
+}
